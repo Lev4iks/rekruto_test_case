@@ -1,0 +1,1 @@
+web: gunicorn rekruto_test_case.wsgi
