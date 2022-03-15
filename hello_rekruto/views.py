@@ -11,4 +11,4 @@ def greet(request):
     }
     print(context)
 
-    return render(request, 'hello_rekruto/greet.html', context)  # noqa
+    return render(request, 'greet.html', context)  # noqa
