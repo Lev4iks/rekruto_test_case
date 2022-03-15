@@ -1,5 +1,5 @@
 """
-WSGI config for rekruto_test_case project.
+WSGI config for rekruto_test_case1 project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'rekruto_test_case.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'rekruto_test_case1.settings')
 
 application = get_wsgi_application()
