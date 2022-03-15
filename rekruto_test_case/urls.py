@@ -1,4 +1,4 @@
-"""rekruto_test_case1 URL Configuration
+"""rekruto_test_case URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/4.0/topics/http/urls/
